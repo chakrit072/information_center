@@ -1,0 +1,183 @@
+[
+    {
+        "type": "text",
+        "text": "กรุณาเลือกภาคและโซนของผู้ประสานงงานที่ต้องการติดต่อ"
+    },
+    {
+        "altText": "this is a carousel template",
+        "type": "template",
+        "template": {
+            "columns": [
+                {
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ",
+                    "actions": [
+                        {
+                            "text": "กทมสมุทรปราการ",
+                            "type": "message",
+                            "label": "กทม.-สมุทรปราการ"
+                        },
+                        {
+                            "type": "message",
+                            "label": "กลาง 1",
+                            "text": "กลาง1"
+                        },
+                        {
+                            "text": "กลาง2",
+                            "type": "message",
+                            "label": "กลาง 2"
+                        }
+                    ],
+                    "title": "ภาคกลาง"
+                },
+                {
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ",
+                    "title": "ภาคตะวันตก",
+                    "actions": [
+                        {
+                            "type": "message",
+                            "label": "ตะวันตก",
+                            "text": "ตะวันตก"
+                        },
+                        {
+                            "text": "-",
+                            "label": "-",
+                            "type": "message"
+                        },
+                        {
+                            "label": "-",
+                            "text": "-",
+                            "type": "message"
+                        }
+                    ]
+                },
+                {
+                    "actions": [
+                        {
+                            "label": "ตะวันออก",
+                            "text": "ตะวันออก",
+                            "type": "message"
+                        },
+                        {
+                            "label": "-",
+                            "text": "-",
+                            "type": "message"
+                        },
+                        {
+                            "type": "message",
+                            "text": "-",
+                            "label": "-"
+                        }
+                    ],
+                    "title": "ภาคตะวันออก",
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ"
+                },
+                {
+                    "actions": [
+                        {
+                            "label": "ใต้ 1",
+                            "type": "message",
+                            "text": "ใต้1"
+                        },
+                        {
+                            "text": "ใต้2",
+                            "type": "message",
+                            "label": "ใต้ 2"
+                        },
+                        {
+                            "type": "message",
+                            "text": "-",
+                            "label": "-"
+                        }
+                    ],
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ",
+                    "title": "ภาคใต้"
+                },
+                {
+                    "actions": [
+                        {
+                            "type": "message",
+                            "text": "เหนือ1",
+                            "label": "เหนือ 1"
+                        },
+                        {
+                            "type": "message",
+                            "label": "เหนือ 2",
+                            "text": "เหนือ2"
+                        },
+                        {
+                            "type": "message",
+                            "label": "เหนือ3",
+                            "text": "เหนือ 3"
+                        }
+                    ],
+                    "title": "ภาคเหนือ",
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ"
+                },
+                {
+                    "title": "ภาคตะวันออกเฉียงเหนือ",
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ",
+                    "actions": [
+                        {
+                            "label": "อีสาน 1",
+                            "text": "อีสาน1",
+                            "type": "message"
+                        },
+                        {
+                            "label": "อีสาน 2",
+                            "type": "message",
+                            "text": "อีสาน2"
+                        },
+                        {
+                            "label": "อีสาน 3",
+                            "type": "message",
+                            "text": "อีสาน3"
+                        }
+                    ]
+                },
+                {
+                    "actions": [
+                        {
+                            "text": "อีสาน4",
+                            "type": "message",
+                            "label": "อีสาน 4"
+                        },
+                        {
+                            "label": "-",
+                            "type": "message",
+                            "text": "-"
+                        },
+                        {
+                            "type": "message",
+                            "label": "-",
+                            "text": "-"
+                        }
+                    ],
+                    "text": "กรุณากดเพื่อเลือกโซนที่ต้องการ",
+                    "title": "ภาคตะวันออกเฉียงเหนือ"
+                },
+                {
+                    "title": "ส่วนกลาง",
+                    "text": "กรุณากด \"เลือก\"",
+                    "actions": [
+                        {
+                            "label": "บุญสถาน",
+                            "text": "บุญสถาน",
+                            "type": "message"
+                        },
+                        {
+                            "type": "message",
+                            "text": "บุญวิมาณ",
+                            "label": "บุญวิมาณ"
+                        },
+                        {
+                            "text": "จราจร",
+                            "type": "message",
+                            "label": "จราจร"
+                        }
+                    ]
+                }
+            ],
+            "type": "carousel"
+        }
+    }
+]

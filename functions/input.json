@@ -1,0 +1,15 @@
+{
+    "type": "message",
+    "replyToken": "053b6bda48f04789815d3440bc785141",
+    "source": {
+        "userId": "U74d7616d41d773b5322be7c0f0a96ed5",
+        "type": "user"
+    },
+    "timestamp": 1606629196341,
+    "mode": "active",
+    "message": {
+        "type": "text",
+        "id": "13114010377240",
+        "text": "imcContact"
+    }
+}
