@@ -1,0 +1,476 @@
+[
+  {
+    "Id": "imct1",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "กระบี่"
+  },
+  {
+    "Id": "imct2",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "กรุงเทพมหานคร"
+  },
+  {
+    "Id": "imct3",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "กาญจนบุรี"
+  },
+  {
+    "Id": "imct4",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "กาฬสินธุ์"
+  },
+  {
+    "Id": "imct5",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "กำแพงเพชร"
+  },
+  {
+    "Id": "imct6",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ขอนแก่น"
+  },
+  {
+    "Id": "imct7",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "จันทบุรี"
+  },
+  {
+    "Id": "imct8",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ฉะเชิงเทรา"
+  },
+  {
+    "Id": "imct9",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ชลบุรี"
+  },
+  {
+    "Id": "imct10",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ชัยนาท"
+  },
+  {
+    "Id": "imct11",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ชัยภูมิ"
+  },
+  {
+    "Id": "imct12",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ชุมพร"
+  },
+  {
+    "Id": "imct13",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "เชียงราย"
+  },
+  {
+    "Id": "imct14",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "เชียงใหม่"
+  },
+  {
+    "Id": "imct15",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ตรัง"
+  },
+  {
+    "Id": "imct16",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ตราด"
+  },
+  {
+    "Id": "imct17",
+    "Sub_id": "imc_g",
+    "Sector": "ก-ต",
+    "Province": "ตาก"
+  },
+  {
+    "Id": "imct18",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครนายก"
+  },
+  {
+    "Id": "imct19",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครปฐม"
+  },
+  {
+    "Id": "imct20",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครพนม"
+  },
+  {
+    "Id": "imct21",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครราชสีมา"
+  },
+  {
+    "Id": "imct22",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครศรีธรรมราช"
+  },
+  {
+    "Id": "imct23",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นครสวรรค์"
+  },
+  {
+    "Id": "imct24",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นนทบุรี"
+  },
+  {
+    "Id": "imct25",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "นราธิวาส"
+  },
+  {
+    "Id": "imct26",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "น่าน"
+  },
+  {
+    "Id": "imct27",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "บึงกาฬ"
+  },
+  {
+    "Id": "imct28",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "บุรีรัมย์"
+  },
+  {
+    "Id": "imct28",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "บุรีรัมย์"
+  },
+  {
+    "Id": "imct28",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "บุรีรัมย์"
+  },
+  {
+    "Id": "imct29",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "ปทุมธานี"
+  },
+  {
+    "Id": "imct30",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "ประจวบคีรีขันธ์"
+  },
+  {
+    "Id": "imct31",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "ปราจีนบุรี"
+  },
+  {
+    "Id": "imct32",
+    "Sub_id": "imc_n",
+    "Sector": "น-ป",
+    "Province": "ปัตตานี"
+  },
+  {
+    "Id": "imct33",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พระนครศรีอยุธยา"
+  },
+  {
+    "Id": "imct34",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พะเยา"
+  },
+  {
+    "Id": "imct35",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พังงา"
+  },
+  {
+    "Id": "imct36",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พัทลุง"
+  },
+  {
+    "Id": "imct37",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พิจิตร"
+  },
+  {
+    "Id": "imct38",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "พิษณุโลก"
+  },
+  {
+    "Id": "imct39",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "เพชรบุรี"
+  },
+  {
+    "Id": "imct40",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "เพชรบูรณ์"
+  },
+  {
+    "Id": "imct41",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "แพร่"
+  },
+  {
+    "Id": "imct42",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "ภูเก็ต"
+  },
+  {
+    "Id": "imct43",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "มหาสารคาม"
+  },
+  {
+    "Id": "imct44",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "มุกดาหาร"
+  },
+  {
+    "Id": "imct45",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "แม่ฮ่องสอน"
+  },
+  {
+    "Id": "imct46",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "ยโสธร"
+  },
+  {
+    "Id": "imct47",
+    "Sub_id": "imc_p",
+    "Sector": "พ-ย",
+    "Province": "ยะลา"
+  },
+  {
+    "Id": "imct48",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ร้อยเอ็ด"
+  },
+  {
+    "Id": "imct49",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ระนอง"
+  },
+  {
+    "Id": "imct50",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ระยอง"
+  },
+  {
+    "Id": "imct51",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ราชบุรี"
+  },
+  {
+    "Id": "imct52",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ลพบุรี"
+  },
+  {
+    "Id": "imct53",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ลำปาง"
+  },
+  {
+    "Id": "imct54",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ลำพูน"
+  },
+  {
+    "Id": "imct55",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "เลย"
+  },
+  {
+    "Id": "imct56",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "ศรีสะเกษ"
+  },
+  {
+    "Id": "imct57",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สกลนคร"
+  },
+  {
+    "Id": "imct58",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สงขลา"
+  },
+  {
+    "Id": "imct59",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สตูล"
+  },
+  {
+    "Id": "imct60",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สมุทรปราการ"
+  },
+  {
+    "Id": "imct61",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สมุทรสงคราม"
+  },
+  {
+    "Id": "imct62",
+    "Sub_id": "imc_s",
+    "Sector": "ร-ส",
+    "Province": "สมุทรสาคร"
+  },
+  {
+    "Id": "imct63",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สระแก้ว"
+  },
+  {
+    "Id": "imct64",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สระบุรี"
+  },
+  {
+    "Id": "imct65",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สิงห์บุรี"
+  },
+  {
+    "Id": "imct66",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สุโขทัย"
+  },
+  {
+    "Id": "imct67",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สุพรรณบุรี"
+  },
+  {
+    "Id": "imct68",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สุราษฎร์ธานี"
+  },
+  {
+    "Id": "imct69",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "สุรินทร์"
+  },
+  {
+    "Id": "imct70",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "หนองคาย"
+  },
+  {
+    "Id": "imct71",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "หนองบัวลำภู"
+  },
+  {
+    "Id": "imct72",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อ่างทอง"
+  },
+  {
+    "Id": "imct73",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อำนาจเจริญ"
+  },
+  {
+    "Id": "imct74",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อุดรธานี"
+  },
+  {
+    "Id": "imct75",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อุตรดิตถ์"
+  },
+  {
+    "Id": "imct76",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อุทัยธานี"
+  },
+  {
+    "Id": "imct77",
+    "Sub_id": "imc_o",
+    "Sector": "อ",
+    "Province": "อุบลราชธานี"
+  }
+]
