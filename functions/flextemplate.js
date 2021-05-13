@@ -205,7 +205,7 @@ function flexcontact(json){
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip13.jpg",
+                      "url": "https://lh3.googleusercontent.com/d/1-TsBqzvjYh_ioKurYE7pmE6Di83EcECW",
                       "aspectMode": "cover",
                       "size": "full"
                     }
@@ -241,7 +241,9 @@ function flexcontact(json){
                             "type": "uri",
                             "label": "Call",
                             "uri": `tel:${number}`
-                          }
+                          },
+                          "style": "primary",
+                          "height": "sm"
                         }
                       ]
                     }

@@ -7,7 +7,7 @@ const LINE_HEADER = {
     "Content-Type": "application/json",
     "Authorization": "Bearer etg6oeEwLoqqcUqXxpasDLYj3H0OE7ht55hmckH3ijLeA/dkXAXN5oIy6Nvn1jQzi9j6OfGZVZ39uM7eGghj7cyVtIjck0UVOv5u9hsmpEqZbY1DnYYwEp51ScpoMKzNjk1aR1ZlY5ECuwv3Wk7RpQdB04t89/1O/w1cDnyilFU="
 };
-const DATABASE_API = "https://sheet.best/api/sheets/a89c093d-1ae5-476c-acc4-9dc599153fae"
+const DATABASE_API = "https://sheet.best/api/sheets/a89c093d-1ae5-476c-acc4-9dc599153fae/tabs"
 const DATABASE_HEADER = {
     "Content-Type": "application/json",
     "x-api-key": "5VEIa9NMHRVVTSN3Z%2RR4kRgBcHs9_-tGPHwZ%Qov_rgF6$juQA--Fg@BhGR85R"
